@@ -1,0 +1,77 @@
+ #+OPTIONS: H:1
+ #+BEAMER_THEME: Madrid
+ #+LATEX_CLASS: beamer
+ #+BEAMER_FRAME_LEVEL: 2
+
+ #+TITLE:          An Intro to Zotero - the next generation research tool
+
+  #+AUTHOR:         Gowtham Sivaraman
+ #+EMAIL:          scigowtham@gmail.com 
+ #+INSTITUTION:   FOSS Group, IIST
+ #+DATE:          April 5, 2017 Wed
+ #+DESCRIPTION:   Zotero [zoh-TAIR-oh] is a free, easy-to-use software/extension for collecting, managing, citing and sharing research sources
+
+
+* Installation
+  zotero - made for PC, Linux, Mac
+
+** DONE Firefox (⌘+1)
+   CLOSED: [2017-04-05 Wed 16:30]
+   Open-source browser, extension - runs using firefox engine
+
+** Standalone
+   Zotero standalone - Independent engine
+   Add-on to your choice of browser
+
+** TODO zotfile addon (⌘+2)
+
+   Advanced pdf manager/extractor
+   Extracts annotations
+* Configuration
+
+** TODO Preferences
+   PDF indexing
+   Export settings
+
+** TODO Files and Folders
+
+* Database capture
+
+** TODO Library catalog (⌘+3,4)
+   library.iist.ac.in
+
+** TODO Journals/Databases (⌘+5,6)
+
+** TODO Websites (⌘+7,8)
+   Amazon
+   Scholoar
+    
+** TODO Manual capture
+   
+*** Add manually
+
+*** Using ISBN
+    ISBN-10: 1259096955
+*** Retrieve Metadata
+* Organization
+
+** TODO Tags
+   Remove auto tagging
+*** Shortcut with keyboard
+
+*** Aggressive with tags and conservative with collections
+
+** TODO Notes - Rich text editor
+
+** TODO Attach links/Related items
+*** Cross referencing
+
+** TODO zotfile extract annotations
+
+* Citations
+
+** TODO Copy/paste
+
+** TODO Drag/drop
+
+** TODO Using RTF File
