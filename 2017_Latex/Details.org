@@ -1,0 +1,17 @@
+#+TITLE:LaTeX Session
+#+startup: indent
+
+* Date : Wednesday, 25 Jan, 2017
+* Time : 1400 hrs to 1530 hrs
+
+* Splitup
+|--------------------------------+---------+------|
+| Task                           | Person  | Time |
+|--------------------------------+---------+------|
+| History                        | Nidish  |   10 |
+| Starting up & Skeletal article | Nikhil  |   20 |
+| Basic commands & macros        | Gowtham |   20 |
+| Research Paper Example         |         |   30 |
+| Advertisements - Overleaf      | Chu     |    5 |
+| Advertisements - Auctex        | Nidish  |    5 |
+|--------------------------------+---------+------|
