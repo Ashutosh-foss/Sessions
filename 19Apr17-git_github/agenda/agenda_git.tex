@@ -1,0 +1,89 @@
+\documentclass[12pt]{article}
+
+\usepackage{xcolor}
+\usepackage{float}
+\usepackage{subcaption}
+\usepackage{graphicx}
+\usepackage[tmargin=0.3in]{geometry}
+\usepackage{url}
+\usepackage[hidelinks]{hyperref}
+
+\newcommand\ytl[2]{
+\parbox[b]{8em}{\hfill{\color{black}\bfseries\sffamily
+#1}~$\cdots\cdots$~}\makebox[0pt][c]{$\bullet$}\vrule\quad \parbox[c]{6cm}{\vspace{7pt}\color{black}\raggedright\sffamily
+#2\\[7pt]}\\[-3pt]}
+
+\usepackage{avant}
+\begin{document} \titlepage{}
+
+\begin{figure} \centering
+	\begin{subfigure}{0.15\textwidth} \flushleft{}
+		\includegraphics[width=\linewidth]{foss_logo}
+	\end{subfigure}%
+		\begin{subfigure}{0.4\textwidth} \centering
+		\includegraphics[width=\linewidth]{git_github}
+	\end{subfigure}%
+		\begin{subfigure}{0.15\textwidth} \flushright{}
+		\includegraphics[width=\linewidth]{iist_logo}
+	\end{subfigure}
+\end{figure}
+
+\vspace*{-1cm}
+
+\centering { \textbf{\LARGE FOSS Group, IIST}}\\ { \textbf{\Large
+Introduction to version control with Git and collaborative projects
+on Github}\\ \emph{Indian Institute of Space Science and Technology,
+Thiruvananthapuram}
+
+\centering
+
+\vspace{0.5cm} {
+  \begin{tabular}{rl}
+    \textbf{DATE }:& Wednesday, April 19,2017\\
+    \textbf{VENUE }:& C-104, D4-building, IIST\\
+    \textbf{TIME }:& 3:00 p.m. to 4:00 p.m.\\
+    \textbf{SPEAKERS }:& Gowtham Sivaraman \&\\
+    &Nidish Narayanaa B\\
+    &(B.Tech Sem VIII)
+  \end{tabular}}
+\begin{center}
+  \textbf{\texttt{Git}} is a version control system (VCS) for tracking changes in
+  computer files and coordinating work on those files among multiple
+  people and \textbf{\texttt{\texttt{Github}}} is a free (of cost) web-based Git repository and
+  internet hosting service gaining popularity among FOSS developers.
+  
+\emph{The present discussion is an attempt to provide a tutorial
+  introduction to using git locally for version controlling
+  projects. Additionally, the session will provide an introduction to
+  contributing to/setting up collaborative projects on github.} 
+\end{center}
+The session will devote the first 30 minutes introducing \texttt{git}
+and the last 30 minutes in setting up and contributing to a
+collaborative project on \texttt{github}.
+\begin{table}[H] \centering
+  \begin{minipage}[t]{.7\linewidth}
+    \color{gray}
+    \rule{\linewidth}{1pt}
+    \ytl{1}{Introduction to \texttt{git}}
+    \ytl{2}{Introduction to collaborative projects over
+      \texttt{github}} 
+    \ytl{3}{Front-ends}
+    % \bigskip
+    \rule{\linewidth}{1pt}%
+  \end{minipage}%
+\end{table}
+\textbf{P.S.: Participants are expected to come with a computer having
+  a working linux OS installed since the speakers are not comfortable
+  with a windows-based workflow with git.} \\
+\begin{flushleft}
+  \textbf{Useful Links:}
+  \begin{enumerate}
+  \item \url{https://try.github.io/} (great online git tutorial)
+  \item \url{https://github.com/} (github)
+  \end{enumerate}
+\end{flushleft}
+\end{document}
+%%% Local Variables:
+%%% mode: latex
+%%% TeX-master: t
+%%% End:
