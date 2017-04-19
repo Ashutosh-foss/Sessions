@@ -1,0 +1,8 @@
+#+TITLE: Walk-Through session for a github workflow
+
+
+1) Cloning a repository
+2) Git pull and Git push
+3) Forking a repository
+4) Creating branches
+5) Uploading Pull-requests
