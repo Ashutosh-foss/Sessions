@@ -6,3 +6,6 @@
 3) Forking a repository
 4) Creating branches
 5) Uploading Pull-requests
+
+
+Recommended Front-end : Magit on emacs
